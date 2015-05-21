@@ -8,4 +8,4 @@ Currently designed to work with a MySQL backup of the NYPL menus, as opposed to 
 
 ## Credits
 Class project from CUS 1166 Software Engineering at [St. John's University](//stjohns.edu), spring 2015.
-Exported from code.google.com/p/menusearch.
+Exported from [code.google.com/p/menusearch](//code.google.com/p/menusearch).
